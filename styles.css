@@ -31,7 +31,7 @@ body {
 
                                                                                 button {
                                                                                     padding: 10px 20px;
-                                                                                        background-color: #007bff;
+                                                                                        background-color: #ff3632;
                                                                                             color: #fff;
                                                                                                 border: none;
                                                                                                     cursor: pointer;
@@ -39,7 +39,7 @@ body {
                                                                                                         }
 
                                                                                                         button:hover {
-                                                                                                            background-color: #0056b3;
+                                                                                                            background-color: #ff3632;
                                                                                                             }
 
                                                                                                             #videoContainer {
